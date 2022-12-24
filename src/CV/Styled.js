@@ -116,7 +116,7 @@ text-decoration: underline;
     WorksBox: styled.div`
         display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
     `,
 
     WorkName: styled.h4`
