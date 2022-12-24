@@ -23,7 +23,6 @@ const Experience = props => {
         </EducationTime>
         <WorkListStyle>
           <li>Quality control of administrative documentation</li>
-          <li>Keeping records in databases</li>
           <li>
             Servicing technical devices, reading data from them and remove data
           </li>

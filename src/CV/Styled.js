@@ -82,7 +82,7 @@ text-decoration: none;
 
     AboutMeStyle: styled.p`
     font-size: 22px;
-margin-bottom: 45px;
+margin-bottom: 40px;
     `,
     SloganStyle: styled.span`
         display: block;
@@ -106,7 +106,7 @@ margin-bottom: 45px;
         font-weight: 400;
     font-size: 20px;
 text-decoration: underline;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     `,
         EducationTime: styled.p`
     font-weight: 500;
@@ -137,7 +137,7 @@ list-style-position: inside;
     ProjectListStyle: styled.ol`
     display: flex;
     flex-direction: column;
-    gap: 15px;
+    gap: 10px;
     list-style-position: inside;
     `,
 
