@@ -6,9 +6,8 @@ const StyledList = {
         display: flex;
         margin: 0 auto;
             width: 1200px;
-
-
     `,
+
     SiteBarStyle: styled.div`
         display: flex;
     flex-direction: column;
@@ -61,7 +60,7 @@ text-decoration: none;
     WorkStyle: styled.h2`
     font-weight: 700;
     font-size: 24px;
-    margin-bottom: 10px;`,
+    `,
 
     NameStyle: styled.h1`
     font-weight: 700;
