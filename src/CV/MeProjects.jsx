@@ -1,7 +1,12 @@
 import StyledList from './Styled';
 
-const { MainTitleStyle, ProjectListStyle, TextProjectStyle, LinkProjectStyle, LinkGitStyle } =
-  StyledList;
+const {
+  MainTitleStyle,
+  ProjectListStyle,
+  TextProjectStyle,
+  LinkProjectStyle,
+  LinkGitStyle,
+} = StyledList;
 
 const MeProject = props => {
   return (
