@@ -8,9 +8,9 @@ const { SiteBarStyle, AvatarStyle } = StyledList;
 const SiteBar = props => {
   return (
     <SiteBarStyle>
-      <AvatarStyle src={avatar} alt="user"/>
-      <Skills />
+      <AvatarStyle src={avatar} alt="user" />
       <Contacts />
+      <Skills />
     </SiteBarStyle>
   );
 };

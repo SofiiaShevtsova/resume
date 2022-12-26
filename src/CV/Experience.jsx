@@ -14,19 +14,16 @@ const Experience = props => {
     <WorksBox>
       <div>
         <MainTitleStyle> Experience </MainTitleStyle>
-        <WorkName>
-          Inspector for monitoring the application of adminpractice
-        </WorkName>
-        <EducationSpecifik>National Police of Ukraine</EducationSpecifik>
+
+        <WorkName>Front-End Developer</WorkName>
+        <EducationSpecifik>Freelance</EducationSpecifik>
         <EducationTime>
-          from 2011 to 2020 <span>|</span>Ukraine
+          from 2022 <span>|</span>Poland
         </EducationTime>
         <WorkListStyle>
-          <li>Quality control of administrative documentation</li>
-          <li>
-            Servicing technical devices, reading data from them and remove data
-          </li>
-          <li>Support communication with all sectors of the police</li>
+          <li>Search for customers</li>
+          <li>Constant contact with the customer</li>
+          <li>Site creation</li>
         </WorkListStyle>
       </div>
       <div>
@@ -41,15 +38,19 @@ const Experience = props => {
         </WorkListStyle>
       </div>
       <div>
-        <WorkName>Front-End Developer</WorkName>
-        <EducationSpecifik>Freelance</EducationSpecifik>
+        <WorkName>
+          Inspector for monitoring the application of adminpractice
+        </WorkName>
+        <EducationSpecifik>National Police of Ukraine</EducationSpecifik>
         <EducationTime>
-          from 2022 <span>|</span>Poland
+          from 2011 to 2020 <span>|</span>Ukraine
         </EducationTime>
         <WorkListStyle>
-          <li>Search for customers</li>
-          <li>Constant contact with the customer</li>
-          <li>Site creation</li>
+          <li>Quality control of administrative documentation</li>
+          <li>
+            Servicing technical devices, reading data from them and remove data
+          </li>
+          <li>Support communication with all sectors of the police</li>
         </WorkListStyle>
       </div>
     </WorksBox>

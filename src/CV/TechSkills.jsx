@@ -5,7 +5,7 @@ const{SiteBarTitleStyle, ListStyle} = StyledList
 const Skills = props => {
 const listTech =  ["HTML5/CSS3/SASS","Responsive/Adaptive design GIT","JavaScript","React","Redux","REST API","Handlebars","Webpack","Parcel"]
 const listSoft = ["Teamwork", "Creativity", "Good communication", "Responsible", "Stress resistant"]
-const listLang = ["Ukrainian - Native language", "English - Limited working proficiency", "Poland - Limited working proficiency", "Russian - Full professional proficiency"]
+const listLang = ["Ukrainian - Native", "English - Intermediate", "Poland - Intermediate", "Russian - Advanced"]
    
   return (
          <>

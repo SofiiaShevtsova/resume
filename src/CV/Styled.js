@@ -36,14 +36,6 @@ const StyledList = {
 
     `,
 
-    SvgStyle: styled.svg`
-display: inline-flex;
-justify-content: center;
-align-items: center;
-margin-right: 10px;
-fill: #fff;
-    `,
-
     ContactsStyle: styled.a`
     color: #fff;
 text-decoration: none;
@@ -51,12 +43,11 @@ text-decoration: none;
     `,
 
     AvatarStyle: styled.img`
-    width: 85%;
     display: block;
     margin: 0 auto;
     border-radius: 20px;
     box-shadow: -8px 8px 24px 10px rgba(79, 212, 85);
-    `,
+    margin-bottom: 30px;`,
     
     MainStyle: styled.div`
             display: flex;
@@ -72,9 +63,6 @@ text-decoration: none;
     font-size: 24px;
     margin-bottom: 10px;`,
 
-    SpecifikStyle: styled.p`
-        font-size: 12px;
-    `,
     NameStyle: styled.h1`
     font-weight: 700;
     font-size: 48px;
@@ -82,7 +70,7 @@ text-decoration: none;
 
     AboutMeStyle: styled.p`
     font-size: 22px;
-margin-bottom: 40px;
+margin-bottom: 25px;
     `,
     SloganStyle: styled.span`
         display: block;
@@ -100,7 +88,6 @@ margin-bottom: 40px;
     EducationItem: styled.li`
     font-weight: 700;
     font-size: 20px;
-    border-bottom: 5px solid rgb(8, 54, 18);
     `,
     EducationSpecifik: styled.p`
         font-weight: 400;
@@ -142,9 +129,17 @@ list-style-position: inside;
     `,
 
     LinkProjectStyle: styled.a`
-        font-weight: 700;
+    font-weight: 700;
     font-size: 20px;
-        text-decoration: none;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    `,
+
+    LinkGitStyle: styled.a`
+    display: block;
+    font-weight: 500;
+    font-size: 20px;
     color: inherit;
     cursor: pointer;
     `,
