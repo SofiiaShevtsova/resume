@@ -46,7 +46,7 @@ text-decoration: none;
     margin: 0 auto;
     border-radius: 20px;
     box-shadow: -8px 8px 24px 10px rgba(79, 212, 85);
-    margin-bottom: 30px;`,
+    margin-bottom: 15px;`,
     
     MainStyle: styled.div`
             display: flex;
@@ -64,7 +64,7 @@ text-decoration: none;
 
     NameStyle: styled.h1`
     font-weight: 700;
-    font-size: 48px;
+    font-size: 36px;
     `,
 
     AboutMeStyle: styled.p`
