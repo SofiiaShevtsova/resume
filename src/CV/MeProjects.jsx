@@ -15,7 +15,7 @@ const MeProject = props => {
       <ProjectListStyle>
         <li className="sps-spr">
           <LinkProjectStyle href="https://sofiiashevtsova.github.io/project4/">
-            Project name "Ice cream made with passion"
+            Ice cream made with passion
           </LinkProjectStyle>
           <LinkGitStyle href="https://github.com/SofiiaShevtsova/project4">
             Link to GitHub
@@ -30,7 +30,7 @@ const MeProject = props => {
         </li>
         <li className="sps-spr">
           <LinkProjectStyle href="sofiiashevtsova.github.io/goit-js-hw-11/">
-            Project name "Image search"
+            Image search
           </LinkProjectStyle>
           <LinkGitStyle href="https://github.com/SofiiaShevtsova/goit-js-hw-11">
             Link to GitHub
@@ -45,7 +45,7 @@ const MeProject = props => {
         </li>
         <li className="sps-spr">
           <LinkProjectStyle href="sofiiashevtsova.github.io/my-project-js/">
-            Project name "My notes and list-buy"
+            My notes and list-buy
           </LinkProjectStyle>
           <LinkGitStyle href="https://github.com/SofiiaShevtsova/my-project-js">
             Link to GitHub
