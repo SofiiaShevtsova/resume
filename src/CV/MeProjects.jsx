@@ -29,7 +29,7 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
-          <LinkProjectStyle href="sofiiashevtsova.github.io/goit-js-hw-11/">
+          <LinkProjectStyle href="https://sofiiashevtsova.github.io/goit-js-hw-11/">
             Image search
           </LinkProjectStyle>
           <LinkGitStyle href="https://github.com/SofiiaShevtsova/goit-js-hw-11">
@@ -44,7 +44,7 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
-          <LinkProjectStyle href="sofiiashevtsova.github.io/my-project-js/">
+          <LinkProjectStyle href="https://sofiiashevtsova.github.io/my-project-js/">
             My notes and list-buy
           </LinkProjectStyle>
           <LinkGitStyle href="https://github.com/SofiiaShevtsova/my-project-js">
