@@ -6,7 +6,6 @@ export const App = () => {
       style={{
         display: 'block',
         alignItems: `center`,
-        backgroundColor: `bisque`,
         color: 'black',
       }}
     >
