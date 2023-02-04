@@ -21,9 +21,10 @@ const Experience = props => {
           from 2022 <span>|</span>Poland
         </EducationTime>
         <WorkListStyle>
-          <li>Search for customers</li>
-          <li>Constant contact with the customer</li>
-          <li>Site creation</li>
+          <li>Negotiations with customers.</li>
+          <li>Site creation.</li>
+          <li>Formation of project development strategies.</li>
+          <li>Determining the actual terms of project implementation.</li>
         </WorkListStyle>
       </div>
       <div>
@@ -33,8 +34,8 @@ const Experience = props => {
           from 2020 to 2022 <span>|</span>Poland
         </EducationTime>
         <WorkListStyle>
-          <li>Checking boards for optical devices on a test machine</li>
-          <li>Service of the test machine</li>
+          <li>Checking boards for optical devices on a test machine.</li>
+          <li>Service of the test machine.</li>
         </WorkListStyle>
       </div>
       <div>
@@ -46,11 +47,12 @@ const Experience = props => {
           from 2011 to 2020 <span>|</span>Ukraine
         </EducationTime>
         <WorkListStyle>
-          <li>Quality control of administrative documentation</li>
+          <li>Quality control of administrative documentation.</li>
           <li>
-            Servicing technical devices, reading data from them and remove data
+            Servicing technical devices, reading data from them and remove data.
           </li>
-          <li>Support communication with all sectors of the police</li>
+          <li>Support communication with all sectors of the police.</li>
+          <li>Entering and editing information in police databases.</li>
         </WorkListStyle>
       </div>
     </WorksBox>
