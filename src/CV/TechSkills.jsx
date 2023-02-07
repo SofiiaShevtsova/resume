@@ -16,8 +16,8 @@ const Skills = props => {
   ];
   const listSoft = [
     'Teamwork',
-    'Creativity',
     'Good communication',
+    'Time management',
     'Responsible',
     'Stress resistant',
   ];
