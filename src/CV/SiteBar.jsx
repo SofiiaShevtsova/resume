@@ -1,7 +1,7 @@
 import Contacts from './Contacts';
 import Skills from './TechSkills';
 import StyledList from './Styled';
-import avatar from '../images/user.jpg';
+import avatar from '../images/user.jfif';
 
 const { SiteBarStyle, AvatarStyle } = StyledList;
 

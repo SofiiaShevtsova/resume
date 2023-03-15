@@ -13,8 +13,8 @@ const StyledList = {
     gap: 40px;
     padding: 30px 30px;
     width: 40%;
-    background-color: #1c324b;
-    color: #fff;
+    background-color: grey;
+    color: rgb(189, 231, 164);
   `,
 
   SiteBarTitleStyle: styled.h3`
@@ -34,11 +34,12 @@ const StyledList = {
   `,
 
   ContactsStyle: styled.a`
-    color: #fff;
+    color: rgb(189, 231, 164);
     text-decoration: underline;
   `,
 
   AvatarStyle: styled.img`
+    width: 70%;
     display: block;
     margin: 0 auto;
     border-radius: 20px;
