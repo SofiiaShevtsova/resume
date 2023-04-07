@@ -14,6 +14,21 @@ const MeProject = props => {
       <MainTitleStyle>My projects</MainTitleStyle>
       <ProjectListStyle>
         <li className="sps-spr">
+          <LinkProjectStyle href="loki99911.github.io/Node.JS_Project_Front/">
+            So Yummy
+          </LinkProjectStyle>
+          <LinkGitStyle href="https://github.com/Loki99911/Node.JS_Project_Front.git">
+            Link to GitHub
+          </LinkGitStyle>
+          <TextProjectStyle>
+            A cooking website built with React by a team of six developers. I
+            personally worked on the start, registration, login and shopingList
+            page.
+            <span className="sps-spr3">[</span> HTML5, CSS3, React, Redux
+            <span className="sps-spr3">]</span>
+          </TextProjectStyle>
+        </li>
+        <li className="sps-spr">
           <LinkProjectStyle href="https://sofiiashevtsova.github.io/project4/">
             Ice cream made with passion
           </LinkProjectStyle>
@@ -105,7 +120,6 @@ const MeProject = props => {
             <span className="sps-spr3">]</span>
           </TextProjectStyle>
         </li>
-
       </ProjectListStyle>
     </div>
   );
