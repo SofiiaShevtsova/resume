@@ -29,7 +29,7 @@ const Contacts = props => {
           </ContactsStyle>
         </li>
         <li>
-          <ContactsStyle href="https://t.me/+380680157436">
+          <ContactsStyle href="https://t.me/ShevtsovaSofiia">
            Telegram
           </ContactsStyle>
         </li>
