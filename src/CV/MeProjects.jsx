@@ -107,6 +107,21 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
+          <LinkProjectStyle href="https://sofiiashevtsova.github.io/brainnest_JS/index.html">
+            Game
+          </LinkProjectStyle>
+          <LinkGitStyle href="https://github.com/SofiiaShevtsova/brainnest_JS.git">
+            Link to GitHub
+          </LinkGitStyle>
+          <TextProjectStyle>
+            A site that contains two games and a calculator. Written in pure
+            JavaScript without the use of libraries.
+            <span className="sps-spr3">[</span> HTML5, CSS3, JS
+            <span className="sps-spr3">]</span>
+          </TextProjectStyle>
+        </li>
+
+        <li className="sps-spr">
           <LinkProjectStyle href="https://sofiiashevtsova.github.io/my-project-js/">
             My notes and list-buy
           </LinkProjectStyle>
