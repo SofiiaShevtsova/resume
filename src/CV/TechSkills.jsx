@@ -5,14 +5,12 @@ const { SiteBarTitleStyle, ListStyle } = StyledList;
 const Skills = props => {
   const listTech = [
     'HTML5/CSS3/SASS',
-    'Responsive/Adaptive design GIT',
+    'Responsive/Adaptive design',
+    'GIT',
     'JavaScript',
     'React',
     'Redux',
     'REST API',
-    'Handlebars',
-    'Webpack',
-    'Parcel',
   ];
   const listSoft = [
     'Teamwork',

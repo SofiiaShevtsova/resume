@@ -14,10 +14,18 @@ const Education = props => {
       <MainTitleStyle>Education</MainTitleStyle>
       <ListStyle>
         <EducationItem>
+          Brainnest
+          <EducationSpecifik>Frontend Development</EducationSpecifik>
+          <EducationTime>
+            from April 2023 to May 2023 <span>|</span>Germany
+          </EducationTime>
+        </EducationItem>
+
+        <EducationItem>
           Academy GO IT
           <EducationSpecifik>Full Stack Developer</EducationSpecifik>
           <EducationTime>
-            from 2022 <span>|</span>Ukraine
+            from August 2022 to April 2023<span>|</span>Ukraine
           </EducationTime>
         </EducationItem>
         <EducationItem>

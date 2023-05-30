@@ -18,7 +18,7 @@ const Experience = props => {
         <WorkName>Front-End Developer</WorkName>
         <EducationSpecifik>Freelance</EducationSpecifik>
         <EducationTime>
-          from 2022 <span>|</span>Poland
+          from 2022 to 2023<span>|</span>Poland
         </EducationTime>
         <WorkListStyle>
           <li>Negotiations with customers.</li>
