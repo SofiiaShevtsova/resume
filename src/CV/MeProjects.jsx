@@ -14,7 +14,7 @@ const MeProject = props => {
       <MainTitleStyle>My projects</MainTitleStyle>
       <ProjectListStyle>
         <li className="sps-spr">
-          <LinkProjectStyle href="loki99911.github.io/Node.JS_Project_Front/">
+          <LinkProjectStyle href="https://loki99911.github.io/Node.JS_Project_Front/">
             So Yummy
           </LinkProjectStyle>
           <LinkGitStyle href="https://github.com/Loki99911/Node.JS_Project_Front.git">
