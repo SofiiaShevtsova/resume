@@ -8,7 +8,7 @@ const Contacts = props => {
       <SiteBarTitleStyle> Contacts </SiteBarTitleStyle>
       <ListStyle>
         <li>
-          <ContactsStyle href="mailto:sofika2404@mail.com">
+          <ContactsStyle href="mailto:sofika2404@gmail.com">
             sofika2404@mail.com
           </ContactsStyle>
         </li>
