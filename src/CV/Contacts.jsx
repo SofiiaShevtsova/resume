@@ -9,7 +9,7 @@ const Contacts = props => {
       <ListStyle>
         <li>
           <ContactsStyle href="mailto:sofika2404@gmail.com">
-            sofika2404@mail.com
+            sofika2404@gmail.com
           </ContactsStyle>
         </li>
 
