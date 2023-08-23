@@ -14,6 +14,14 @@ const Education = props => {
       <MainTitleStyle>Education</MainTitleStyle>
       <ListStyle>
         <EducationItem>
+          Binary Studio Academy
+          <EducationSpecifik>Full Stack Development</EducationSpecifik>
+          <EducationTime>
+            from June 2023 to August 2023 <span>|</span>Ukraine
+          </EducationTime>
+        </EducationItem>
+
+        <EducationItem>
           Brainnest
           <EducationSpecifik>Frontend Development</EducationSpecifik>
           <EducationTime>
