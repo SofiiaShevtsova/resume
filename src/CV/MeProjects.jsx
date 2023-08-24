@@ -60,6 +60,20 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
+          <LinkProjectStyle href="https://dulcet-dodol-f6ff6a.netlify.app/">
+            Travel App
+          </LinkProjectStyle>
+          <LinkGitStyle href="https://github.com/SofiiaShevtsova/travel-app">
+            Link to GitHub
+          </LinkGitStyle>
+          <TextProjectStyle>
+            A site for searching and booking trips with a convenient interface.
+            Was developed by me personally.
+            <span className="sps-spr3">[</span> React, Redux, TS, API
+            <span className="sps-spr3">]</span>
+          </TextProjectStyle>
+        </li>
+        <li className="sps-spr">
           <LinkProjectStyle href="https://sofiiashevtsova.github.io/goit-js-hw-11/">
             Image search
           </LinkProjectStyle>
