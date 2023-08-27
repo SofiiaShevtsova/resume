@@ -8,6 +8,7 @@ const Skills = props => {
     'Responsive/Adaptive design',
     'GIT',
     'JavaScript',
+    'TypeScript',
     'React',
     'Redux',
     'REST API',
