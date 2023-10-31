@@ -10,7 +10,7 @@ const Main = props => {
   return (
     <MainStyle>
       <div>
-        <WorkStyle>Front-end DEVELOPER</WorkStyle>
+        <WorkStyle>Full stack DEVELOPER</WorkStyle>
       </div>
       <NameStyle>Sofiia Shevtsova</NameStyle>
       <AboutMe />

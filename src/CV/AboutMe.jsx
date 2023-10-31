@@ -6,7 +6,7 @@ const AboutMe = props => {
   return (
     <AboutMeStyle>
       <SloganStyle>"Self-development is the way to self-knowledge"</SloganStyle>
-      I am a junior front-end developer, looking for a full-time position at a
+      I am a junior full stack developer, looking for a full-time position at a
       company that is actively developing and helping people to develop their
       business and interests with the help of IT. I want to become a good
       developer, so I study hard and am interested in all the new things in the
