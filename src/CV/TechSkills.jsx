@@ -10,7 +10,11 @@ const Skills = props => {
     'JavaScript',
     'TypeScript',
     'React',
+    'Next.js',
     'Redux',
+    'Node.js',
+    'MongoDB',
+    'PostgreSQL',
     'REST API',
   ];
   const listSoft = [

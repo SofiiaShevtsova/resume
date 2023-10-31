@@ -74,6 +74,20 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
+          <LinkProjectStyle href="https://first-next-js-project-1xey.vercel.app/">
+            Promptopia
+          </LinkProjectStyle>
+          <LinkGitStyle href="https://github.com/SofiiaShevtsova/first-next-js-project">
+            Link to GitHub
+          </LinkGitStyle>
+          <TextProjectStyle>
+            My firs project with Next.js and NextAuth. The site where you can share your prompt.
+            Was developed by me personally.
+            <span className="sps-spr3">[</span> Next.js, Node.js, TS, API
+            <span className="sps-spr3">]</span>
+          </TextProjectStyle>
+        </li>
+        <li className="sps-spr">
           <LinkProjectStyle href="https://sofiiashevtsova.github.io/goit-js-hw-11/">
             Image search
           </LinkProjectStyle>
