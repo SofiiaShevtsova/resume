@@ -14,10 +14,10 @@ const MeProject = props => {
       <MainTitleStyle>My projects</MainTitleStyle>
       <ProjectListStyle>
         <li className="sps-spr">
-          <LinkProjectStyle href="https://loki99911.github.io/Node.JS_Project_Front/">
+          <LinkProjectStyle target='-blank' href="https://loki99911.github.io/Node.JS_Project_Front/">
             So Yummy
           </LinkProjectStyle>
-          <LinkGitStyle href="https://github.com/Loki99911/Node.JS_Project_Front.git">
+          <LinkGitStyle target='-blank' href="https://github.com/Loki99911/Node.JS_Project_Front.git">
             Link to GitHub
           </LinkGitStyle>
           <TextProjectStyle>
@@ -29,10 +29,10 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
-          <LinkProjectStyle href="https://sofiiashevtsova.github.io/project4/">
+          <LinkProjectStyle target='-blank' href="https://sofiiashevtsova.github.io/project4/">
             Ice cream made with passion
           </LinkProjectStyle>
-          <LinkGitStyle href="https://github.com/SofiiaShevtsova/project4">
+          <LinkGitStyle target='-blank' href="https://github.com/SofiiaShevtsova/project4">
             Link to GitHub
           </LinkGitStyle>
           <TextProjectStyle>
@@ -44,10 +44,10 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
-          <LinkProjectStyle href="https://sofiiashevtsova.github.io/films_list/">
+          <LinkProjectStyle target='-blank' href="https://sofiiashevtsova.github.io/films_list/">
             Filmoteka
           </LinkProjectStyle>
-          <LinkGitStyle href="https://github.com/SofiiaShevtsova/films_list.git">
+          <LinkGitStyle target='-blank' href="https://github.com/SofiiaShevtsova/films_list.git">
             Link to GitHub
           </LinkGitStyle>
           <TextProjectStyle>
@@ -60,10 +60,10 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
-          <LinkProjectStyle href="https://dulcet-dodol-f6ff6a.netlify.app/">
+          <LinkProjectStyle target='-blank' href="https://dulcet-dodol-f6ff6a.netlify.app/">
             Travel App
           </LinkProjectStyle>
-          <LinkGitStyle href="https://github.com/SofiiaShevtsova/travel-app">
+          <LinkGitStyle target='-blank' href="https://github.com/SofiiaShevtsova/travel-app">
             Link to GitHub
           </LinkGitStyle>
           <TextProjectStyle>
@@ -74,10 +74,10 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
-          <LinkProjectStyle href="https://first-next-js-project-1xey.vercel.app/">
+          <LinkProjectStyle target='-blank' href="https://first-next-js-project-1xey.vercel.app/">
             Promptopia
           </LinkProjectStyle>
-          <LinkGitStyle href="https://github.com/SofiiaShevtsova/first-next-js-project">
+          <LinkGitStyle target='-blank' href="https://github.com/SofiiaShevtsova/first-next-js-project">
             Link to GitHub
           </LinkGitStyle>
           <TextProjectStyle>
@@ -88,10 +88,10 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
-          <LinkProjectStyle href="https://sofiiashevtsova.github.io/goit-js-hw-11/">
+          <LinkProjectStyle target='-blank' href="https://sofiiashevtsova.github.io/goit-js-hw-11/">
             Image search
           </LinkProjectStyle>
-          <LinkGitStyle href="https://github.com/SofiiaShevtsova/goit-js-hw-11">
+          <LinkGitStyle target='-blank' href="https://github.com/SofiiaShevtsova/goit-js-hw-11">
             Link to GitHub
           </LinkGitStyle>
           <TextProjectStyle>
@@ -103,10 +103,10 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
-          <LinkProjectStyle href="https://sofiiashevtsova.github.io/goit-react-hw-08-phonebook/">
+          <LinkProjectStyle target='-blank' href="https://sofiiashevtsova.github.io/goit-react-hw-08-phonebook/">
             Phonebook
           </LinkProjectStyle>
-          <LinkGitStyle href="https://github.com/SofiiaShevtsova/goit-react-hw-08-phonebook.git">
+          <LinkGitStyle target='-blank' href="https://github.com/SofiiaShevtsova/goit-react-hw-08-phonebook.git">
             Link to GitHub
           </LinkGitStyle>
           <TextProjectStyle>
@@ -119,10 +119,10 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
-          <LinkProjectStyle href="https://sofiiashevtsova.github.io/Bobrus-cake/">
+          <LinkProjectStyle target='-blank' href="https://sofiiashevtsova.github.io/Bobrus-cake/">
             Bobrus-cake
           </LinkProjectStyle>
-          <LinkGitStyle href="https://github.com/SofiiaShevtsova/Bobrus-cake.git">
+          <LinkGitStyle target='-blank' href="https://github.com/SofiiaShevtsova/Bobrus-cake.git">
             Link to GitHub
           </LinkGitStyle>
           <TextProjectStyle>
@@ -135,10 +135,10 @@ const MeProject = props => {
           </TextProjectStyle>
         </li>
         <li className="sps-spr">
-          <LinkProjectStyle href="https://sofiiashevtsova.github.io/brainnest_JS/index.html">
+          <LinkProjectStyle target='-blank' href="https://sofiiashevtsova.github.io/brainnest_JS/index.html">
             Game
           </LinkProjectStyle>
-          <LinkGitStyle href="https://github.com/SofiiaShevtsova/brainnest_JS.git">
+          <LinkGitStyle target='-blank' href="https://github.com/SofiiaShevtsova/brainnest_JS.git">
             Link to GitHub
           </LinkGitStyle>
           <TextProjectStyle>
@@ -150,10 +150,10 @@ const MeProject = props => {
         </li>
 
         <li className="sps-spr">
-          <LinkProjectStyle href="https://sofiiashevtsova.github.io/my-project-js/">
+          <LinkProjectStyle target='-blank' href="https://sofiiashevtsova.github.io/my-project-js/">
             My notes and list-buy
           </LinkProjectStyle>
-          <LinkGitStyle href="https://github.com/SofiiaShevtsova/my-project-js">
+          <LinkGitStyle target='-blank' href="https://github.com/SofiiaShevtsova/my-project-js">
             Link to GitHub
           </LinkGitStyle>
           <TextProjectStyle>
