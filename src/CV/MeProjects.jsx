@@ -25,7 +25,7 @@ const MeProject = props => {
             part of a six-person team development using React, I was responsible
             for developing the start page, user registration and login
             functionality, and the shopping list page.
-            <span className="sps-spr3">[</span> HTML5, CSS3, React, Redux
+            <span className="sps-spr3">[</span> HTML5, CSS3, React, Mui
             <span className="sps-spr3">]</span>
           </TextProjectStyle>
         </li>
@@ -38,7 +38,7 @@ const MeProject = props => {
             sellers. As part of a six-person team development using React, I was
             involved in creating the start page, user registration and login
             sections, as well as the wishlist page.
-            <span className="sps-spr3">[</span> HTML5, CSS3, React, Redux
+            <span className="sps-spr3">[</span> HTML5, CSS3, React, Mui
             <span className="sps-spr3">]</span>
           </TextProjectStyle>
         </li>
