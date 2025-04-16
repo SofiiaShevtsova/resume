@@ -16,6 +16,7 @@ const AboutMe = props => {
       I working in a big team. I never stop at on my way and move on. I am
       Ukrainian. I currently live in Poland, but I am ready to change my country
       of residence if necessary.
+      <p style={{marginTop:'10px'}}>PS: "I love green"</p>
     </AboutMeStyle>
   );
 };

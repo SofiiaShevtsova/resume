@@ -12,79 +12,149 @@ const {
 const Experience = props => {
   return (
     <WorksBox>
-      <div>
+      <div style={{display:'flex', flexDirection:'column', gap:'20px'}}>
         <MainTitleStyle> Experience </MainTitleStyle>
         <div>
-          <WorkName>Front-End Developer</WorkName>
-          <EducationSpecifik>Big Orange Cat</EducationSpecifik>
+          <EducationSpecifik>Front-End Developer</EducationSpecifik>
+          <WorkName>Factory Wise</WorkName>
           <EducationTime>
-            from March 2024<span>|</span>Ukraine
+            from July 2024 <span>|</span> Ukraine
           </EducationTime>
           <WorkListStyle>
-            <li>Developing user-facing features using React.js.</li>
             <li>
-              Optimizing components for maximum performance across a vast array
-              of web-capable devices and browsers.
+              Developed user interfaces and front-end functionalities utilizing
+              React.js.
             </li>
-            <li>Translating designs and wireframes into high-quality code.</li>
-            <li>Connected to REST API and built basic logic</li>
+            <li>
+              Optimized component performance to ensure responsiveness across
+              various web platforms and browsers.
+            </li>
+            <li>
+              Translated design specifications and wireframes into high-fidelity
+              code implementations.
+            </li>
+            <li>
+              Integrated with RESTful APIs to implement core application logic
+              and data exchange.
+            </li>
           </WorkListStyle>
         </div>
-      </div>
-      <div>
-        <WorkName>Full-stack Developer</WorkName>
-        <EducationSpecifik>Baza Trainee Ukraine</EducationSpecifik>
-        <EducationTime>
-          from September 2023 to April 2024<span>|</span>Ukraine
-        </EducationTime>
-        <WorkListStyle>
-          <li>Negotiations with customers.</li>
-          <li>Developing user-facing features using Next.js.</li>
-          <li>Selection of technologies for the project.</li>
-          <li>Creating tasks and distributing them in the team.</li>
-        </WorkListStyle>
-      </div>
-      <div>
-        <WorkName>Front-End Developer</WorkName>
-        <EducationSpecifik>Freelance</EducationSpecifik>
-        <EducationTime>
-          from 2022 to 2023<span>|</span>Poland
-        </EducationTime>
-        <WorkListStyle>
-          <li>Negotiations with customers.</li>
-          <li>Site creation.</li>
-          <li>Formation of project development strategies.</li>
-          <li>Determining the actual terms of project implementation.</li>
-        </WorkListStyle>
-      </div>
 
-      <div>
-        <WorkName>Factory worker</WorkName>
-        <EducationSpecifik>Seconix</EducationSpecifik>
-        <EducationTime>
-          from 2020 to 2022 <span>|</span>Poland
-        </EducationTime>
-        <WorkListStyle>
-          <li>Checking boards for optical devices on a test machine.</li>
-          <li>Service of the test machine.</li>
-        </WorkListStyle>
-      </div>
-      <div>
-        <WorkName>
-          Inspector for monitoring the application of adminpractice
-        </WorkName>
-        <EducationSpecifik>National Police of Ukraine</EducationSpecifik>
-        <EducationTime>
-          from 2011 to 2020 <span>|</span>Ukraine
-        </EducationTime>
-        <WorkListStyle>
-          <li>Quality control of administrative documentation.</li>
-          <li>
-            Servicing technical devices, reading data from them and remove data.
-          </li>
-          <li>Support communication with all sectors of the police.</li>
-          <li>Entering and editing information in police databases.</li>
-        </WorkListStyle>
+        <div>
+          <EducationSpecifik>Front-End Developer</EducationSpecifik>
+          <WorkName>Big Orange Cat</WorkName>
+          <EducationTime>
+            March 2024 - July 2024 <span>|</span> Ukraine
+          </EducationTime>
+          <WorkListStyle>
+            <li>
+              Contributed to the development of user-centric features employing
+              React.js framework.
+            </li>
+            <li>
+              Enhanced component efficiency and ensured cross-platform
+              compatibility for optimal user experience.
+            </li>
+            <li>
+              Implemented user interface designs and wireframes with precision
+              and adherence to specifications.
+            </li>
+            <li>
+              Established connectivity with backend systems via REST APIs to
+              facilitate application functionalities.
+            </li>
+          </WorkListStyle>
+        </div>
+
+        <div>
+          <EducationSpecifik>Full-stack Developer</EducationSpecifik>
+          <WorkName>Baza Trainee Ukraine</WorkName>
+          <EducationTime>
+            September 2023 - April 2024 <span>|</span> Ukraine
+          </EducationTime>
+          <WorkListStyle>
+            <li>
+              Conducted client consultations to ascertain project requirements
+              and objectives.
+            </li>
+            <li>
+              Developed front-end applications utilizing Next.js framework.
+            </li>
+            <li>
+              Participated in the evaluation and selection of appropriate
+              technological solutions for project execution.
+            </li>
+            <li>
+              Contributed to task allocation and team coordination for efficient
+              project management.
+            </li>
+          </WorkListStyle>
+        </div>
+
+        <div>
+          <EducationSpecifik>Freelance Developer</EducationSpecifik>
+          <WorkName>Freelance</WorkName>
+          <EducationTime>
+            2022 - 2023 <span>|</span> Poland
+          </EducationTime>
+          <WorkListStyle>
+            <li>
+              Engaged with clients to define project scope and deliverables.
+            </li>
+            <li>
+              Developed and deployed websites based on client specifications.
+            </li>
+            <li>Formulated project development strategies and timelines.</li>
+            <li>
+              Determined and communicated realistic project completion
+              schedules.
+            </li>
+          </WorkListStyle>
+        </div>
+
+        <div>
+          <EducationSpecifik>Production Technician</EducationSpecifik>
+          <WorkName>Seconix</WorkName>
+          <EducationTime>
+            2020 - 2022 <span>|</span> Poland
+          </EducationTime>
+          <WorkListStyle>
+            <li>
+              Performed quality assurance inspections on optical device circuit
+              boards using automated testing equipment.
+            </li>
+            <li>
+              Maintained and operated testing machinery in accordance with
+              established protocols.
+            </li>
+          </WorkListStyle>
+        </div>
+
+        <div>
+          <EducationSpecifik>Inspector, Administrative Practice Monitoring</EducationSpecifik>
+          <WorkName>National Police of Ukraine</WorkName>
+          <EducationTime>
+            2011 - 2020 <span>|</span> Ukraine
+          </EducationTime>
+          <WorkListStyle>
+            <li>
+              Conducted quality control reviews of administrative documentation
+              to ensure compliance.
+            </li>
+            <li>
+              Operated technical devices to access, extract, and manage data in
+              accordance with regulations.
+            </li>
+            <li>
+              Facilitated interdepartmental communication and coordination
+              within the police force.
+            </li>
+            <li>
+              Managed and updated information within police databases, ensuring
+              data accuracy and integrity.
+            </li>
+          </WorkListStyle>
+        </div>
       </div>
     </WorksBox>
   );
